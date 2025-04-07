@@ -12,7 +12,7 @@ Terraform project that automates deployment of an Ubuntu 22.04 VM on Azure with 
 ## Quick Start
 
 1. Clone repo:
-git clone https://github.com/your-repo/azure-terraform-vm.git
+git clone https://github.com/Megs17/Terraform_Azure
 cd azure-terraform-vm
 
 2. Initialize Terraform:
